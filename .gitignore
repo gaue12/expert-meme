@@ -92,7 +92,7 @@ $RECYCLE.BIN/
 *.msm
 *.msp
 
-# Windows shortcuts
+# Windows shortcut
 *.lnk
 
 # End of https://www.gitignore.io/api/windows,eclipse
